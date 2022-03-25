@@ -4,7 +4,6 @@ TUTORIAL DE COMO INTALAR FOSSAPUP
 Creamos los discos(2) que vamos a utilizar con su respetivo almacenamintos
 ![imagen1](img/inta1.jpeg)
 
-
 despues de crear el almacenamiento le damos en mostrar y nos sale la opcion Quick Setup
 ![imagen1](img/inta222.jpeg)
 
@@ -71,3 +70,7 @@ luegos vemos la particion que le hicimos al disco duro de 4gb
 
 y esos seria para el disco numero 1 ya que el disco 2 que se le hizo particion el queda completo
 ![imagen1](img/inta16.jpeg)
+
+recordar que fosaapup es de escritorio
+fhgsjhjdj
+hhyujjikj
