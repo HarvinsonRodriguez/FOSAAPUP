@@ -70,7 +70,3 @@ luegos vemos la particion que le hicimos al disco duro de 4gb
 
 y esos seria para el disco numero 1 ya que el disco 2 que se le hizo particion el queda completo
 ![imagen1](img/inta16.jpeg)
-
-recordar que fosaapup es de escritorio
-fhgsjhjdj
-hhyujjikj
