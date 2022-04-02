@@ -71,11 +71,11 @@ luegos vemos la particion que le hicimos al disco duro de 4gb
 y esos seria para el disco numero 1 ya que el disco 2 que se le hizo particion el queda completo
 ![imagen1](img/inta16.jpeg)
 
-#fundacion o Empresa que estan atras de la distribucion de Fossapup
+#Fundacion o Empresa que estan atras de la distribucion de Fossapup
 
 Fossapup es una distribución que selecciona aplicaciones de poco tamaño, pero que ofrezcan la funcionalidad que espera un usuario normal. Así, la versión 4.3.1, lanzada el 17 de octubre de 2009, pesa alrededor de 105 megas. La versión 5.2.5 (02/04/2011) es algo mayor, usando 130 megas. Permite elegir un navegador, tal como Chrome, Firefox, Opera o Seamonkey. También trae el procesador de textos Abiword, el programa de dibujo Mtpaint, hoja de cálculo Gnumeric, la interfaz de reproducción multimedia Gnome mplayer y visualmente se sigue manejando con el gestor de ventanas JWM aunque por defecto arranca con openbox. En su repositorio están disponibles para su descarga programas como: VLC media player, Libreoffice, Skype, Wine, Gimp, etc. A partir de la versión 5.3, las compilaciones oficiales de Puppy Linux solamente traen JWM, con la opción de instalar Openbox desde el PPM (siglas en inglés de Gestor de Paquetes de Fossapup).
 
-#ventajas del sistema Fossapup.
+#Ventajas del sistema Fossapup.
 
 -Uso gratuito
 -Los administradores se benefician de las libertades de gestión del sistema
@@ -85,6 +85,15 @@ Fossapup es una distribución que selecciona aplicaciones de poco tamaño, pero 
 -Pocos requisitos de hardware
 -Función remota integrada para el control a distancia
 
-#que entorno de escritorio viene incluido en el sistema Fossapup
+#Que entorno de escritorio viene incluido en el sistema Fossapup
 
 Un entorno de escritorio proporciona una completa interfaz gráfica de usuario (GUI) para un sistema donde se agrupan una diversidad de clientes de El Sistema de Ventanas X escritos con un conjunto de herramientas Widget y un conjunto de bibliotecas comunes.
+
+#Alguna ventaja del entorno Fossapup sobre los otros sistemas
+
+La segunda y mayor ventaja es que existe la libertad de conocimiento y el trabajo cooperativo entre los usuarios, consiguiendo así un software más innovador. La tercera ventaja es que permite una rápida solución de errores ya que se puede acceder libremente al código fuente.
+
+#El nombre del explorador de archivos de fossapup
+
+-Haga clic en el botón Start (Inicio).
+-En el Start Menu (Menú Inicio), haga clic en el icono File Explorer (Explorador de archivos).
