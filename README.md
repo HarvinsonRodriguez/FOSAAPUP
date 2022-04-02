@@ -104,4 +104,15 @@ La segunda y mayor ventaja es que existe la libertad de conocimiento y el trabaj
 -Linux es libre: Esto implica no sólo la gratuidad del software, sino también que Linux es modificable y que Linux tiene una gran cantidad de aplicaciones libres en Internet. Todo ello arropado por la inmensa documentación de Linux que puede encontrarse en la Red
 -Linux ya no está restringido a personas con grandes conocimientos de informática: Los desarrolladores de Linux han hecho un gran esfuerzo por dotar al sistema de asistentes de configuración y ayuda, además de un sistema gráfico muy potente. Distribuciones Linux como Red Hat/Fedora tienen aplicaciones de configuración similares a las de Windows.
 
+#Que tipo de paquetes posee fossapup
+
+Los paquetes existentes en GNU/Linux, son dependientes de la distribución en la que se estén usando; son usados comúnmente para la compresión de aplicaciones en diferentes formatos para distintos medios de instalación. Estos son un conjunto de ficheros que contienen instrucciones para la reconstrucción de la aplicación dentro del sistema nuevo, dentro de estos, podemos encontrar, Paquetes Binarios y Paquetes de código Fuente.
+
+#Alguna ventaja del sistema fossapup respecto de los demás.
+
+La segunda y mayor ventaja es que existe la libertad de conocimiento y el trabajo cooperativo entre los usuarios, consiguiendo así un software más innovador. La tercera ventaja es que permite una rápida solución de errores ya que se puede acceder libremente al código fuente.
+
+#Modelo de lanzamiento que posee la distribución fossapup
+
+Fossapup es una distribución que selecciona aplicaciones de poco tamaño, pero que ofrezcan la funcionalidad que espera un usuario normal. Así, la versión 4.3.1, lanzada el 17 de octubre de 2009, pesa alrededor de 105 megas. La versión 5.2.5 (02/04/2011) es algo mayor
 
