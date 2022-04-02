@@ -71,11 +71,11 @@ luegos vemos la particion que le hicimos al disco duro de 4gb
 y esos seria para el disco numero 1 ya que el disco 2 que se le hizo particion el queda completo
 ![imagen1](img/inta16.jpeg)
 
-#Fundacion o Empresa que estan atras de la distribucion de Fossapup
+1:Fundacion o Empresa que estan atras de la distribucion de Fossapup
 
 Fossapup es una distribución que selecciona aplicaciones de poco tamaño, pero que ofrezcan la funcionalidad que espera un usuario normal. Así, la versión 4.3.1, lanzada el 17 de octubre de 2009, pesa alrededor de 105 megas. La versión 5.2.5 (02/04/2011) es algo mayor, usando 130 megas. Permite elegir un navegador, tal como Chrome, Firefox, Opera o Seamonkey. También trae el procesador de textos Abiword, el programa de dibujo Mtpaint, hoja de cálculo Gnumeric, la interfaz de reproducción multimedia Gnome mplayer y visualmente se sigue manejando con el gestor de ventanas JWM aunque por defecto arranca con openbox. En su repositorio están disponibles para su descarga programas como: VLC media player, Libreoffice, Skype, Wine, Gimp, etc. A partir de la versión 5.3, las compilaciones oficiales de Puppy Linux solamente traen JWM, con la opción de instalar Openbox desde el PPM (siglas en inglés de Gestor de Paquetes de Fossapup).
 
-#Ventajas del sistema Fossapup.
+1.1:Ventajas del sistema Fossapup.
 
 -Uso gratuito
 -Los administradores se benefician de las libertades de gestión del sistema
@@ -85,34 +85,35 @@ Fossapup es una distribución que selecciona aplicaciones de poco tamaño, pero 
 -Pocos requisitos de hardware
 -Función remota integrada para el control a distancia
 
-#Que entorno de escritorio viene incluido en el sistema Fossapup
+2:Que entorno de escritorio viene incluido en el sistema Fossapup
 
 Un entorno de escritorio proporciona una completa interfaz gráfica de usuario (GUI) para un sistema donde se agrupan una diversidad de clientes de El Sistema de Ventanas X escritos con un conjunto de herramientas Widget y un conjunto de bibliotecas comunes.
 
-#Alguna ventaja del entorno Fossapup sobre los otros sistemas
+2.1:Alguna ventaja del entorno Fossapup sobre los otros sistemas
 
 La segunda y mayor ventaja es que existe la libertad de conocimiento y el trabajo cooperativo entre los usuarios, consiguiendo así un software más innovador. La tercera ventaja es que permite una rápida solución de errores ya que se puede acceder libremente al código fuente.
 
-#El nombre del explorador de archivos de fossapup
+3:El nombre del explorador de archivos de fossapup
 
 -Haga clic en el botón Start (Inicio).
 -En el Start Menu (Menú Inicio), haga clic en el icono File Explorer (Explorador de archivos).
 
-#Alguna ventaja del entorno Fossapup sobre los otros sistemas
+3.1:Alguna ventaja del entorno Fossapup sobre los otros sistemas
 
 -Linux es muy robusto, estable y rápido: Ideal para servidores y aplicaciones distribuidas. A esto se añade que puede funcionar en máquinas sencillas: Linux puede correr servicios en un x86 a 200 MHz con calidad
 -Linux es libre: Esto implica no sólo la gratuidad del software, sino también que Linux es modificable y que Linux tiene una gran cantidad de aplicaciones libres en Internet. Todo ello arropado por la inmensa documentación de Linux que puede encontrarse en la Red
 -Linux ya no está restringido a personas con grandes conocimientos de informática: Los desarrolladores de Linux han hecho un gran esfuerzo por dotar al sistema de asistentes de configuración y ayuda, además de un sistema gráfico muy potente. Distribuciones Linux como Red Hat/Fedora tienen aplicaciones de configuración similares a las de Windows.
 
-#Que tipo de paquetes posee fossapup
+4:Que tipo de paquetes posee fossapup
 
 Los paquetes existentes en GNU/Linux, son dependientes de la distribución en la que se estén usando; son usados comúnmente para la compresión de aplicaciones en diferentes formatos para distintos medios de instalación. Estos son un conjunto de ficheros que contienen instrucciones para la reconstrucción de la aplicación dentro del sistema nuevo, dentro de estos, podemos encontrar, Paquetes Binarios y Paquetes de código Fuente.
 
-#Alguna ventaja del sistema fossapup respecto de los demás.
+4.1:Alguna ventaja del sistema fossapup respecto de los demás.
 
 La segunda y mayor ventaja es que existe la libertad de conocimiento y el trabajo cooperativo entre los usuarios, consiguiendo así un software más innovador. La tercera ventaja es que permite una rápida solución de errores ya que se puede acceder libremente al código fuente.
 
-#Modelo de lanzamiento que posee la distribución fossapup
+5:Modelo de lanzamiento que posee la distribución fossapup
 
 Fossapup es una distribución que selecciona aplicaciones de poco tamaño, pero que ofrezcan la funcionalidad que espera un usuario normal. Así, la versión 4.3.1, lanzada el 17 de octubre de 2009, pesa alrededor de 105 megas. La versión 5.2.5 (02/04/2011) es algo mayor
 
+5.1:A diferencia de Windows o de MacOS, una de las principales ventajas de Linux es que permite al usuario personalizar completamente el sistema, desde lo visual hasta los programas y procesos, algo que puede resultar muy interesante.
