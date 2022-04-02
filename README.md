@@ -96,5 +96,12 @@ La segunda y mayor ventaja es que existe la libertad de conocimiento y el trabaj
 #El nombre del explorador de archivos de fossapup
 
 -Haga clic en el botón Start (Inicio).
-
 -En el Start Menu (Menú Inicio), haga clic en el icono File Explorer (Explorador de archivos).
+
+#Alguna ventaja del entorno Fossapup sobre los otros sistemas
+
+-Linux es muy robusto, estable y rápido: Ideal para servidores y aplicaciones distribuidas. A esto se añade que puede funcionar en máquinas sencillas: Linux puede correr servicios en un x86 a 200 MHz con calidad
+-Linux es libre: Esto implica no sólo la gratuidad del software, sino también que Linux es modificable y que Linux tiene una gran cantidad de aplicaciones libres en Internet. Todo ello arropado por la inmensa documentación de Linux que puede encontrarse en la Red
+-Linux ya no está restringido a personas con grandes conocimientos de informática: Los desarrolladores de Linux han hecho un gran esfuerzo por dotar al sistema de asistentes de configuración y ayuda, además de un sistema gráfico muy potente. Distribuciones Linux como Red Hat/Fedora tienen aplicaciones de configuración similares a las de Windows.
+
+
