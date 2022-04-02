@@ -96,4 +96,5 @@ La segunda y mayor ventaja es que existe la libertad de conocimiento y el trabaj
 #El nombre del explorador de archivos de fossapup
 
 -Haga clic en el botón Start (Inicio).
+
 -En el Start Menu (Menú Inicio), haga clic en el icono File Explorer (Explorador de archivos).
