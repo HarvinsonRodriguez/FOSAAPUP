@@ -71,4 +71,8 @@ luegos vemos la particion que le hicimos al disco duro de 4gb
 y esos seria para el disco numero 1 ya que el disco 2 que se le hizo particion el queda completo
 ![imagen1](img/inta16.jpeg)
 
-fundacion o Empresa que esta 
+fundacion o Empresa que estan atras de la distribucion de Fossapup
+
+Fossapup es una distribución que selecciona aplicaciones de poco tamaño, pero que ofrezcan la funcionalidad que espera un usuario normal. Así, la versión 4.3.1, lanzada el 17 de octubre de 2009, pesa alrededor de 105 megas. La versión 5.2.5 (02/04/2011) es algo mayor, usando 130 megas. Permite elegir un navegador, tal como Chrome, Firefox, Opera o Seamonkey. También trae el procesador de textos Abiword, el programa de dibujo Mtpaint, hoja de cálculo Gnumeric, la interfaz de reproducción multimedia Gnome mplayer y visualmente se sigue manejando con el gestor de ventanas JWM aunque por defecto arranca con openbox. En su repositorio están disponibles para su descarga programas como: VLC media player, Libreoffice, Skype, Wine, Gimp, etc. A partir de la versión 5.3, las compilaciones oficiales de Puppy Linux solamente traen JWM, con la opción de instalar Openbox desde el PPM (siglas en inglés de Gestor de Paquetes de Fossapup).
+
+
